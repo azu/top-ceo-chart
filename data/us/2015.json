@@ -1,0 +1,345 @@
+[
+  {
+    "rank": 1,
+    "ceo": "Larry Page",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/9079/google-larry-page.png",
+    "company": "Google",
+    "approval": "97% Approval"
+  },
+  {
+    "rank": 2,
+    "ceo": "Mark G. Parker",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/1699/nike-mark-g-parker.png",
+    "company": "NIKE",
+    "approval": "97% Approval"
+  },
+  {
+    "rank": 3,
+    "ceo": "Charles C. Butt",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2824/h-e-b-charles-c-butt.png",
+    "company": "H E B",
+    "approval": "96% Approval"
+  },
+  {
+    "rank": 4,
+    "ceo": "Mark Zuckerberg",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/40772/facebook-mark-zuckerberg.png",
+    "company": "Facebook",
+    "approval": "95% Approval"
+  },
+  {
+    "rank": 5,
+    "ceo": "Scott Scherr",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/7900/ultimate-software-scott-scherr.png",
+    "company": "UKG (Ultimate Kronos Group)",
+    "approval": "95% Approval"
+  },
+  {
+    "rank": 7,
+    "ceo": "Lloyd C. Blankfein",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2800/goldman-sachs-lloyd-c-blankfein.png",
+    "company": "Goldman Sachs",
+    "approval": "95% Approval"
+  },
+  {
+    "rank": 8,
+    "ceo": "John E. Schlifske",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2919/northwestern-mutual-john-e-schlifske.png",
+    "company": "Northwestern Mutual",
+    "approval": "95% Approval"
+  },
+  {
+    "rank": 9,
+    "ceo": "Glenn Johnson",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/152783/insight-global-glenn-johnson.png",
+    "company": "Insight Global",
+    "approval": "94% Approval"
+  },
+  {
+    "rank": 10,
+    "ceo": "Tim Cook",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/1138/apple-tim-cook.png",
+    "company": "Apple",
+    "approval": "94% Approval"
+  },
+  {
+    "rank": 11,
+    "ceo": "Dara Khosrowshahi",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/9876/expedia-dara-khosrowshahi.png",
+    "company": "Expedia Group",
+    "approval": "94% Approval"
+  },
+  {
+    "rank": 12,
+    "ceo": "Jeff Weiner",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/34865/linkedin-jeff-weiner.png",
+    "company": "LinkedIn",
+    "approval": "93% Approval"
+  },
+  {
+    "rank": 13,
+    "ceo": "Craig Jelinek",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2590/costco-wholesale-craig-jelinek.png",
+    "company": "Costco Wholesale",
+    "approval": "93% Approval"
+  },
+  {
+    "rank": 14,
+    "ceo": "John Legere",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/9302/t-mobile-john-legere.png",
+    "company": "T-Mobile",
+    "approval": "93% Approval"
+  },
+  {
+    "rank": 15,
+    "ceo": "Jim Weddle",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/3161/edward-jones-jim-weddle.png",
+    "company": "Edward Jones",
+    "approval": "93% Approval"
+  },
+  {
+    "rank": 16,
+    "ceo": "John S. Watson",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/13524/chevron-john-s-watson.png",
+    "company": "Chevron",
+    "approval": "93% Approval"
+  },
+  {
+    "rank": 17,
+    "ceo": "Calvin McDonald",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/14590/sephora-calvin-mcdonald.png",
+    "company": "Sephora",
+    "approval": "93% Approval"
+  },
+  {
+    "rank": 18,
+    "ceo": "Mark Weinberger",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2784/ey-mark-weinberger.png",
+    "company": "EY",
+    "approval": "93% Approval"
+  },
+  {
+    "rank": 19,
+    "ceo": "A.G. Lafley",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/544/procter-and-gamble-a-g-lafley.png",
+    "company": "Procter & Gamble",
+    "approval": "92% Approval"
+  },
+  {
+    "rank": 20,
+    "ceo": "Lyndon Rive",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/244963/solarcity-lyndon-rive.png",
+    "company": "SolarCity",
+    "approval": "92% Approval"
+  },
+  {
+    "rank": 21,
+    "ceo": "Marc Benioff",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/11159/salesforce-com-marc-benioff.png",
+    "company": "Salesforce",
+    "approval": "92% Approval"
+  },
+  {
+    "rank": 22,
+    "ceo": "Jeremy Stoppelman",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/43314/yelp-jeremy-stoppelman.png",
+    "company": "Yelp",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 23,
+    "ceo": "Martin Mucci",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/1762/paychex-martin-mucci.png",
+    "company": "Paychex",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 24,
+    "ceo": "Omar S. Ishrak",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/436/medtronic-omar-s-ishrak.png",
+    "company": "Medtronic",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 25,
+    "ceo": "Corey Schiller",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/405781/power-home-remodeling-group-corey-schiller.png",
+    "company": "Power Home Remodeling",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 26,
+    "ceo": "Mickey Drexler",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2848/j-crew-mickey-drexler.png",
+    "company": "J. Crew",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 27,
+    "ceo": "Alex Gorsky",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/364/johnson-and-johnson-alex-gorsky.png",
+    "company": "Johnson & Johnson",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 28,
+    "ceo": "Danny Wegman",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/3042/wegmans-danny-wegman.png",
+    "company": "Wegmans Food Markets",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 29,
+    "ceo": "Blake W. Nordstrom",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/1704/nordstrom-blake-w-nordstrom.png",
+    "company": "Nordstrom",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 30,
+    "ceo": "Fred Smith",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/246/fedex-fred-smith.png",
+    "company": "FedEx",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 31,
+    "ceo": "Howard D. Schultz",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2202/starbucks-howard-d-schultz.png",
+    "company": "Starbucks",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 32,
+    "ceo": "John B. Veihmeyer",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2867/kpmg-john-b-veihmeyer.png",
+    "company": "KPMG",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 33,
+    "ceo": "Frank D'Souza",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/8014/cognizant-technology-solutions-frank-d-souza.png",
+    "company": "Cognizant Technology Solutions",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 34,
+    "ceo": "Thomas E. Richards",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2347/cdw-thomas-e-richards.png",
+    "company": "CDW",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 35,
+    "ceo": "Dr. Vishal Sikka",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/7927/infosys-dr-vishal-sikka.png",
+    "company": "Infosys",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 36,
+    "ceo": "Brad Smith",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/2293/intuit-brad-smith.png",
+    "company": "Intuit",
+    "approval": "91% Approval"
+  },
+  {
+    "rank": 37,
+    "ceo": "Bob Iger",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/717/disney-bob-iger.png",
+    "company": "Walt Disney Company",
+    "approval": "90% Approval"
+  },
+  {
+    "rank": 38,
+    "ceo": "William McNabb",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/4084/vanguard-william-mcnabb.png",
+    "company": "Vanguard",
+    "approval": "90% Approval"
+  },
+  {
+    "rank": 39,
+    "ceo": "Brian M. Krzanich",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/1519/intel-corporation-brian-m-krzanich.png",
+    "company": "Intel Corporation",
+    "approval": "90% Approval"
+  },
+  {
+    "rank": 40,
+    "ceo": "Joseph A. Tarantino",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/30849/protiviti-joseph-a-tarantino.png",
+    "company": "Protiviti",
+    "approval": "90% Approval"
+  },
+  {
+    "rank": 41,
+    "ceo": "Tom Linebarger",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/187/cummins-tom-linebarger.png",
+    "company": "Cummins",
+    "approval": "90% Approval"
+  },
+  {
+    "rank": 42,
+    "ceo": "Kenneth Oaks",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/134523/total-quality-logistics-kenneth-oaks.png",
+    "company": "Total Quality Logistics",
+    "approval": "90% Approval"
+  },
+  {
+    "rank": 43,
+    "ceo": "Kevin A. Lobo",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/1918/stryker-kevin-a-lobo.png",
+    "company": "Stryker",
+    "approval": "89% Approval"
+  },
+  {
+    "rank": 44,
+    "ceo": "Bill Emerson",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/7856/quicken-loans-bill-emerson.png",
+    "company": "Quicken Loans",
+    "approval": "89% Approval"
+  },
+  {
+    "rank": 45,
+    "ceo": "Brad Jackson",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/31102/slalom-consulting-brad-jackson.png",
+    "company": "Slalom",
+    "approval": "89% Approval"
+  },
+  {
+    "rank": 46,
+    "ceo": "Christopher M. Connor",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/599/sherwin-williams-christopher-m-connor.png",
+    "company": "Sherwin-Williams",
+    "approval": "89% Approval"
+  },
+  {
+    "rank": 47,
+    "ceo": "Shantanu Narayen",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/1090/adobe-shantanu-narayen.png",
+    "company": "Adobe",
+    "approval": "89% Approval"
+  },
+  {
+    "rank": 48,
+    "ceo": "Brian Chesky",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/391850/airbnb-brian-chesky.png",
+    "company": "Airbnb",
+    "approval": "89% Approval"
+  },
+  {
+    "rank": 49,
+    "ceo": "Richard H. Anderson",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/197/delta-air-lines-richard-h-anderson.png",
+    "company": "Delta Air Lines",
+    "approval": "88% Approval"
+  },
+  {
+    "rank": 50,
+    "ceo": "Arne Sorenson",
+    "ceoImg": "https://media.glassdoor.com/people/sqll/7790/marriott-arne-sorenson.png",
+    "company": "Marriott International",
+    "approval": "88% Approval"
+  }
+]
